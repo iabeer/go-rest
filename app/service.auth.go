@@ -5,6 +5,7 @@ import (
     "encoding/json"
     "github.com/dgrijalva/jwt-go"
     "github.com/esquarer/go-rest/domain"
+    "fmt"
 )
 
 
